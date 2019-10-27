@@ -7,11 +7,11 @@
 //	5
 //
 //	Output: 
-//	+++++
-//	++++
-//	+++
-//	++
 //	+
+//	++
+//	+++
+//	++++
+//	+++++
 
 package nl.rug.jsm.introduction_to_programming.day2.triangle;
 
@@ -34,7 +34,12 @@ public class Main {
 	}
 	
 	
-	// TODO make a method that prints the plusses triangle based on a number supplied by the user
+	
+	public static void printPlusLinesIncreasing(int baseSize) {
+		// TODO make a method that prints the plusses triangle based on a number supplied by the user
+		// you can print without a newline (an 'enter') using System.out.print("mytext")
+		// the character for a newline is "\n"
+	}
 	
 	// TODO maybe we could also make the triangle in reverse?
 	
