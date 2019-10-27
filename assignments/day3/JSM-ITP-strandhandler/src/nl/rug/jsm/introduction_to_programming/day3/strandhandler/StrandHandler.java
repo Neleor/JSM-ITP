@@ -1,3 +1,11 @@
+// this is an assignment for the JSM introduction to programming course
+// the assignment here is as follows:
+//
+// create an application that can:
+// - calculate the GC percentage of a DNA String (GCATTAGG DNA strand has 0.5 GC percentage for example)
+// - calculate the melting temperature of a DNA String (formula is (nr of T or A * 2) + (nr of C or G * 4) )
+// - get a complement of a DNA String (A matches to T, G to C, thus the complement of AACGTC is TTGCAG)
+// - get the reverse complement of a DNA String (so the complement reversed, the reverse complement of AACGAG is CTCGTT)
 package nl.rug.jsm.introduction_to_programming.day3.strandhandler;
 
 /**
